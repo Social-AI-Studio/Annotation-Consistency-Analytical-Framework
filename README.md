@@ -5,7 +5,7 @@ To cite:
 @inproceedings{consistency20,
     title={On Analyzing Annotation Consistency in Online Abusive Behavior Datasets,
     author={Awal, Md Rabiul and Cao, Rui and Lee, Roy Ka-Wei and Mitrovic, Sandra},
-    booktitle={International Conference on Web and Social Media, ICWSM},
+    booktitle={International Conference on Web and Social Media, Data Challenge},
     month={June}
     year={2020}
     publisher={AAAI Press}
